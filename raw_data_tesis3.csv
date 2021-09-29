@@ -1,12 +1,12 @@
 FechaVisado,TipoCarga,PuntoVisado,LatitudPtoVisado,LongitudPtoVisado,Ruta,Zona,FechaAccidente, Latitud , Longitud ,TipoAccidente
 2/18/2019,Tramero,Cruce A San Jose El Idolo,14.492879,-91.410210,Ruta 3,Zona 3,2/18/2019, 14.492592 ,-91.408222 ,Volcadura
 2/22/2019,Granel,Aldea La Guitarra Frente A Escuela,14.473049,-91.754699,Ruta 3,Zona 3,2/21/2019, 14.483087 ,-91.742480 ,Volcadura
-3/18/2020,Vacio,Entrada Trocha 3,14.074900,-91.325300,Ruta 2,Zona 2,3/18/2020, 14.075783 ,-91.324462 ,Volcadura
+3/18/2020,Vac韔,Entrada Trocha 3,14.074900,-91.325300,Ruta 2,Zona 2,3/18/2020, 14.075783 ,-91.324462 ,Volcadura
 2/21/2021,Mecanizado,Entrada A Guanagazapa,14.202187,-90.703576,Ruta 1,Zona 1,2/21/2021, 14.202538 ,-90.708860 ,Volcadura
-1/29/2019,Granel,Entrada Finca Concepci贸n,14.541908,-91.578948,Ruta 3,Zona 3,1/29/2019, 14.541911 ,-91.585236 ,Volcadura
-2/5/2019,Vacio,Cocales,14.392982,-91.195475,Ruta 2,Zona 2,2/5/2019, 14.211304 ,-91.227844 ,Colisi贸n
-3/18/2019,Vacio,El Zarco,14.574644,-91.632103,Ruta 3,Zona 3,3/18/2019, 14.575496 ,-91.633841 ,Colisi贸n
-1/11/2019,Mecanizado,Aldea Oliveros,13.981821,-90.400647,Ruta Comunidades Cr铆ticas,Zona 1,1/11/2019, 13.978508 ,-90.401018 ,Colisi贸n
+1/29/2019,Granel,Entrada Finca Concepci髇,14.541908,-91.578948,Ruta 3,Zona 3,1/29/2019, 14.541911 ,-91.585236 ,Volcadura
+2/5/2019,Vac韔,Cocales,14.392982,-91.195475,Ruta 2,Zona 2,2/5/2019, 14.211304 ,-91.227844 ,Colision
+3/18/2019,Vac韔,El Zarco,14.574644,-91.632103,Ruta 3,Zona 3,3/18/2019, 14.575496 ,-91.633841 ,Colision
+1/11/2019,Mecanizado,Aldea Oliveros,13.981821,-90.400647,Ruta Comunidades Cr韙icas,Zona 1,1/11/2019, 13.978508 ,-90.401018 ,Colision
 3/14/2019,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,3/14/2019, 14.249738 ,-91.201059 ,Volcadura
 2/14/2021,Granel,Complejo Deportivo Retalhuleu,14.528905,-91.687206,Ruta 3,Zona 3,2/14/2021, 14.558071 ,-91.683732 ,Colision
 1/7/2021,Mecanizado,Cruce Las Lisas,13.944884,-90.218345,Ruta 1,Zona 1,1/7/2021, 13.856066 ,-90.262241 ,Colision
@@ -14,12 +14,12 @@ FechaVisado,TipoCarga,PuntoVisado,LatitudPtoVisado,LongitudPtoVisado,Ruta,Zona,F
 12/14/2020,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,12/14/2020, 14.229694 ,-91.151135 ,Volcadura
 4/25/2019,Mecanizado,Complejo Deportivo Retalhuleu,14.528905,-91.687206,Ruta 3,Zona 3,4/25/2019, 14.528306 ,-91.680688 ,Colision
 3/19/2020,Mecanizado,Entrada A Finca El Tigre,13.949926,-90.410587,Ruta Interna,Zona 1,3/19/2020, 13.978863 ,-90.400724 ,Volcadura
-2/17/2019,Vacio,Finca La Ni帽a,14.163841,-90.847689,Ruta Interna,Zona 1,2/17/2019, 14.177667 ,-90.854712 ,Colision
+2/17/2019,Vac韔,Finca La Ni馻,14.163841,-90.847689,Ruta Interna,Zona 1,2/17/2019, 14.177667 ,-90.854712 ,Colision
 2/24/2021,Granel,Entrada Trocha 3,14.074900,-91.325300,Ruta 2,Zona 2,2/24/2021, 14.073348 ,-91.326771 ,Colision
 5/12/2019,Mecanizado,Finca Las Ilusiones,14.332941,-91.012503,Ruta 2,Zona 2,5/12/2019, 14.329489 ,-90.991206 ,Colision
 4/24/2020,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,4/23/2020, 14.241286 ,-91.195542 ,Volcadura
 3/19/2021,Granel,Chalet Tehuantepec,14.200614,-91.106112,Ruta Interna,Zona 2,3/19/2021, 14.216770 ,-91.107496 ,Colision
-4/14/2019,Vacio,Comedor Vista Verde,14.240677,-90.741662,Ruta 1,Zona 1,4/14/2019, 14.182363 ,-90.865203 ,Colision
+4/14/2019,Vac韔,Comedor Vista Verde,14.240677,-90.741662,Ruta 1,Zona 1,4/14/2019, 14.182363 ,-90.865203 ,Colision
 12/10/2018,Granel,Entrada A Finca San Luis Uruela,14.297500,-90.794529,Ruta 1,Zona 1,12/10/2018, 14.328704 ,-91.020764 ,Volcadura
 4/14/2019,Granel,El Zaguan,14.535728,-91.527458,Ruta 3,Zona 3,4/14/2019, 14.535690 ,-91.529090 ,Colision
 1/24/2021,Granel,El Zarco,14.574644,-91.632103,Ruta 3,Zona 3,1/24/2021, 14.575299 ,-91.633167 ,Colision
@@ -31,30 +31,30 @@ FechaVisado,TipoCarga,PuntoVisado,LatitudPtoVisado,LongitudPtoVisado,Ruta,Zona,F
 3/4/2021,Mecanizado,Gasolinera Maranatha,14.542854,-91.427352,Ruta 3,Zona 3,3/4/2021, 14.535614 ,-91.420671 ,Colision
 4/24/2021,Mecanizado,Paso Antonio Llantera 6.,14.063768,-90.716204,Ruta Interna,Zona 1,4/24/2021, 14.027663 ,-90.473154 ,Volcadura
 3/17/2019,Granel,Entrada A Finca El Tigre,13.949926,-90.410587,Ruta Interna,Zona 1,3/17/2019, 9.949926 ,-90.410587 ,Volcadura
-1/27/2019,Vacio,Complejo Deportivo Retalhuleu,14.528905,-91.687206,Ruta 3,Zona 3,1/27/2019, 14.557868 ,-91.683392 ,Colisi贸n
-11/26/2018,Vacio,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,11/26/2018, 14.331283 ,-91.055847 ,Otro
+1/27/2019,Vac韔,Complejo Deportivo Retalhuleu,14.528905,-91.687206,Ruta 3,Zona 3,1/27/2019, 14.557868 ,-91.683392 ,Colision
+11/26/2018,Vac韔,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,11/26/2018, 14.331283 ,-91.055847 ,Otro
 1/7/2021,Granel,Aldea La Guitarra Frente A Escuela,14.473049,-91.754699,Ruta 3,Zona 3,1/7/2021, 14.468327 ,-91.760446 ,Colision
-2/12/2021,Vacio,Cuesta De Popoya,14.386785,-91.110677,Ruta 2,Zona 2,2/11/2021, 14.338336 ,-91.218317 ,Colision
-12/11/2018,Granel,Vuelta Del Ni帽o Hulera,14.551850,-91.635702,Ruta 3,Zona 3,12/11/2018, 14.550559 ,-91.630122 ,Colision
-4/12/2021,Granel,Circunvalaci贸n Cruce A La Democracia,14.295509,-90.971687,Ruta 2,Zona 2,4/12/2021, 14.290535 ,-90.969470 ,Colision
-3/5/2019,Granel,Finca La Ni帽a,14.163841,-90.847689,Ruta Interna,Zona 1,3/5/2019, 14.167154 ,-90.848207 ,Volcadura
-2/6/2020,Granel,Circunvalaci贸n Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,2/6/2020, 14.306542 ,-91.046954 ,Volcadura
+2/12/2021,Vac韔,Cuesta De Popoya,14.386785,-91.110677,Ruta 2,Zona 2,2/11/2021, 14.338336 ,-91.218317 ,Colision
+12/11/2018,Granel,Vuelta Del Ni駉 Hulera,14.551850,-91.635702,Ruta 3,Zona 3,12/11/2018, 14.550559 ,-91.630122 ,Colision
+4/12/2021,Granel,Circunvalaci髇 Cruce A La Democracia,14.295509,-90.971687,Ruta 2,Zona 2,4/12/2021, 14.290535 ,-90.969470 ,Colision
+3/5/2019,Granel,Finca La Ni馻,14.163841,-90.847689,Ruta Interna,Zona 1,3/5/2019, 14.167154 ,-90.848207 ,Volcadura
+2/6/2020,Granel,Circunvalaci髇 Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,2/6/2020, 14.306542 ,-91.046954 ,Volcadura
 2/17/2021,Granel,Cruce A Tiquisate,14.410769,-91.307944,Ruta 3,Zona 3,2/17/2021, 14.411370 ,-91.317102 ,Volcadura
-1/13/2019,Vacio,Cruce A Tiquisate,14.410769,-91.307944,Ruta 3,Zona 3,1/13/2019, 14.410755 ,-91.308212 ,Colision
+1/13/2019,Vac韔,Cruce A Tiquisate,14.410769,-91.307944,Ruta 3,Zona 3,1/13/2019, 14.410755 ,-91.308212 ,Colision
 12/17/2018,Mecanizado,Comedor Vista Verde,14.240677,-90.741662,Ruta 1,Zona 1,12/17/2018, 14.246381 ,-90.740908 ,Colision
 4/25/2021,Granel,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,4/24/2021, 14.222292 ,-91.092090 ,Otro
-3/29/2019,Vacio,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,3/28/2019, 14.241201 ,-91.195478 ,Colisi贸n
-2/13/2021,Granel,El Casta帽o,14.235506,-91.178812,Ruta Interna,Zona 2,2/13/2021, 14.249969 ,-91.183373 ,Volcadura
-3/12/2020,Granel,Caserio La Sure帽a,14.391979,-91.852730,Ruta 3,Zona 3,3/12/2020, 14.380696 ,-91.866329 ,Otro
+3/29/2019,Vac韔,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,3/28/2019, 14.241201 ,-91.195478 ,Colision
+2/13/2021,Granel,El Casta駉,14.235506,-91.178812,Ruta Interna,Zona 2,2/13/2021, 14.249969 ,-91.183373 ,Volcadura
+3/12/2020,Granel,Caserio La Sure馻,14.391979,-91.852730,Ruta 3,Zona 3,3/12/2020, 14.380696 ,-91.866329 ,Otro
 11/24/2018,Mecanizado,Entrada A Finca Lorena,14.519675,-91.415388,Ruta 3,Zona 3,11/24/2018, 14.545461 ,-91.558579 ,Colision
 3/30/2019,Mecanizado,Aldea La Guitarra Frente A Escuela,14.473049,-91.754699,Ruta 3,Zona 3,3/29/2019, 14.532249 ,-91.676167 ,Colision
 2/22/2021,Granel,Gasolinera Maranatha,14.542854,-91.427352,Ruta 3,Zona 3,2/22/2021, 14.536183 ,-91.421038 ,Otro
-12/4/2020,Mecanizado,El Casta帽o,14.235506,-91.178812,Ruta Interna,Zona 2,12/4/2020, 14.221568 ,-91.102658 ,Volcadura
-12/21/2020,Vacio,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,12/21/2020, 14.288636 ,-91.333062 ,Colision
+12/4/2020,Mecanizado,El Casta駉,14.235506,-91.178812,Ruta Interna,Zona 2,12/4/2020, 14.221568 ,-91.102658 ,Volcadura
+12/21/2020,Vac韔,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,12/21/2020, 14.288636 ,-91.333062 ,Colision
 12/23/2020,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,12/23/2020, 14.234046 ,-91.171879 ,Volcadura
-2/16/2021,Vacio,Cruce A San Jose El Idolo,14.492879,-91.410210,Ruta 3,Zona 3,2/16/2021, 14.499303 ,-91.412263 ,Colision
-12/21/2018,Granel,Caserio La Redenci贸n,14.028511,-90.484610,Ruta Comunidades Cr铆ticas,Zona 1,12/21/2018, 14.027691 ,-90.473140 ,Otro
-4/8/2020,Vacio,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,4/8/2020, 14.243580 ,-91.195359 ,Otro
+2/16/2021,Vac韔,Cruce A San Jose El Idolo,14.492879,-91.410210,Ruta 3,Zona 3,2/16/2021, 14.499303 ,-91.412263 ,Colision
+12/21/2018,Granel,Caserio La Redenci髇,14.028511,-90.484610,Ruta Comunidades Cr韙icas,Zona 1,12/21/2018, 14.027691 ,-90.473140 ,Otro
+4/8/2020,Vac韔,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,4/8/2020, 14.243580 ,-91.195359 ,Otro
 1/25/2021,Granel,Finca Las Ilusiones,14.332941,-91.012503,Ruta 2,Zona 2,1/25/2021, 14.334292 ,-91.007634 ,Colision
 4/30/2019,Granel,Cruce A Tiquisate,14.410769,-91.307944,Ruta 3,Zona 3,4/30/2019, 14.411564 ,-91.306077 ,Colision
 1/26/2019,Granel,Paso Antonio Llantera 6.,14.063768,-90.716204,Ruta Interna,Zona 1,1/26/2019, 14.073710 ,-90.757436 ,Volcadura
@@ -62,54 +62,54 @@ FechaVisado,TipoCarga,PuntoVisado,LatitudPtoVisado,LongitudPtoVisado,Ruta,Zona,F
 3/15/2021,Granel,Cruce A Tiquisate,14.410769,-91.307944,Ruta 3,Zona 3,3/15/2021, 14.411229 ,-91.319692 ,Volcadura
 12/15/2018,Granel,Aldea La Guitarra Frente A Escuela,14.473049,-91.754699,Ruta 3,Zona 3,12/15/2018, 14.454425 ,-91.777240 ,Volcadura
 11/29/2018,Mecanizado,Cruce A Nahualate,14.443271,-91.378200,Ruta 3,Zona 3,11/29/2018, 14.436504 ,-91.375213 ,Volcadura
-12/9/2020,Granel,Vuelta Del Ni帽o Hulera,14.551850,-91.635702,Ruta 3,Zona 3,12/9/2020, 14.547399 ,-91.613049 ,Colision
+12/9/2020,Granel,Vuelta Del Ni駉 Hulera,14.551850,-91.635702,Ruta 3,Zona 3,12/9/2020, 14.547399 ,-91.613049 ,Colision
 1/21/2019,Mecanizado,Recta Madre Vieja,14.284461,-91.297189,Ruta Interna,Zona 2,1/21/2019, 14.327302 ,-91.061872 ,Volcadura
 12/26/2020,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,12/26/2020, 14.234230 ,-91.170456 ,Volcadura
 2/19/2019,Tramero,Puente Ixtacapa,14.549847,-91.438050,Ruta 3,Zona 3,2/19/2019, 14.545723 ,-91.446125 ,Colision
-12/15/2018,Vacio,Cruce A Santo Domingo RI,14.391089,-91.456578,Ruta Interna,Zona 3,12/15/2018, 14.362207 ,-91.648323 ,Colision
-3/5/2019,Granel,Recta Del Casta帽o,14.083054,-90.816341,Ruta Interna,Zona 1,3/5/2019, 14.074068 ,-90.789717 ,Volcadura
+12/15/2018,Vac韔,Cruce A Santo Domingo RI,14.391089,-91.456578,Ruta Interna,Zona 3,12/15/2018, 14.362207 ,-91.648323 ,Colision
+3/5/2019,Granel,Recta Del Casta駉,14.083054,-90.816341,Ruta Interna,Zona 1,3/5/2019, 14.074068 ,-90.789717 ,Volcadura
 3/17/2021,Granel,Gasolinera Texaco Cuyotenango,14.543818,-91.567840,Ruta 3,Zona 3,3/17/2021, 14.543490 ,-91.567874 ,Volcadura
-3/26/2019,Vacio,Canton Chacalte,14.522826,-91.579095,Ruta 3,Zona 3,3/25/2019, 14.410453 ,-91.822692 ,Colision
+3/26/2019,Vac韔,Canton Chacalte,14.522826,-91.579095,Ruta 3,Zona 3,3/25/2019, 14.410453 ,-91.822692 ,Colision
 4/12/2019,Granel,Entrada A Guanagazapa,14.202187,-90.703576,Ruta 1,Zona 1,4/12/2019, 14.204176 ,-90.706314 ,Volcadura
 2/15/2019,Granel,Entrada A Guanagazapa,14.202187,-90.703576,Ruta 1,Zona 1,2/15/2019, 14.204201 ,-90.705547 ,Volcadura
 12/15/2020,Granel,Comedor Cristina Cuatro Caminos,14.571162,-91.658877,Ruta 3,Zona 3,12/15/2020, 14.532460 ,-91.675825 ,Colision
 2/12/2020,Granel,FINCA AGUNA,14.355401,-91.088653,Ruta 2,Zona 2,2/12/2020, 14.344971 ,-91.071503 ,Colision
 1/20/2019,Mecanizado,Finca San Cayetano,14.421258,-91.365292,Ruta 3,Zona 3,1/20/2019, 14.327291 ,-91.063028 ,Colision
 12/17/2020,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,12/17/2020, 14.252781 ,-91.206455 ,Colision
-2/6/2020,Granel,Circunvalaci贸n Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,2/6/2020, 14.347183 ,-91.067358 ,Volcadura
+2/6/2020,Granel,Circunvalaci髇 Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,2/6/2020, 14.347183 ,-91.067358 ,Volcadura
 1/1/2021,Granel,Cruce Fca. Trebol,14.046229,-90.617721,Ruta Interna,Zona 1,1/1/2021, 14.046229 ,-90.617721 ,Volcadura
-1/20/2021,Vacio,Finca Rincon Alegre,14.436710,-91.798823,Ruta 3,Zona 3,1/19/2021, 14.431029 ,-91.805648 ,Colision
+1/20/2021,Vac韔,Finca Rincon Alegre,14.436710,-91.798823,Ruta 3,Zona 3,1/19/2021, 14.431029 ,-91.805648 ,Colision
 1/19/2021,Granel,Linea A3 La Maquina,14.367562,-91.554042,Ruta 3,Zona 3,1/19/2021, 14.368665 ,-91.554056 ,Volcadura
 1/19/2021,Granel,El Zaguan,14.535728,-91.527458,Ruta 3,Zona 3,1/18/2021, 14.533971 ,-91.495195 ,Volcadura
-1/27/2019,Vacio,Aldea Brito,14.137851,-90.656703,Ruta 1,Zona 1,1/27/2019, 14.332824 ,-91.012863 ,Otro
+1/27/2019,Vac韔,Aldea Brito,14.137851,-90.656703,Ruta 1,Zona 1,1/27/2019, 14.332824 ,-91.012863 ,Otro
 12/12/2018,Granel,Entrada A Finca Lorena,14.519675,-91.415388,Ruta 3,Zona 3,12/12/2018, 14.535338 ,-91.420728 ,Volcadura
-1/13/2019,Tramero,Vuelta Del Ni帽o Hulera,14.551850,-91.635702,Ruta 3,Zona 3,1/13/2019, 14.555070 ,-91.639680 ,Volcadura
+1/13/2019,Tramero,Vuelta Del Ni駉 Hulera,14.551850,-91.635702,Ruta 3,Zona 3,1/13/2019, 14.555070 ,-91.639680 ,Volcadura
 12/16/2020,Granel,Aceituno,14.267430,-90.874233,Ruta 2,Zona 2,12/16/2020, 14.268955 ,-90.854095 ,Otro
 3/21/2021,Granel,Comedor Cristina Cuatro Caminos,14.571162,-91.658877,Ruta 3,Zona 3,3/21/2021, 14.562430 ,-91.685312 ,Otro
 1/27/2019,Granel,Aldea La Guitarra Frente A Escuela,14.473049,-91.754699,Ruta 3,Zona 3,1/26/2019, 14.473153 ,-91.754615 ,Volcadura
-1/9/2019,Mecanizado,Finca Maricon,14.547656,-91.614457,Ruta 3,Zona 3,1/9/2019, 14.547663 ,-91.614951 ,Colisi贸n
+1/9/2019,Mecanizado,Finca Maricon,14.547656,-91.614457,Ruta 3,Zona 3,1/9/2019, 14.547663 ,-91.614951 ,Colision
 2/3/2019,Granel,Entrada A Caballo Blanco,14.420199,-91.818688,Ruta 3,Zona 3,2/2/2019, 14.417315 ,-91.822226 ,Volcadura
-4/7/2020,Vacio,Circunvalaci贸n Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,4/7/2020, 14.306579 ,-91.046996 ,Otro
+4/7/2020,Vac韔,Circunvalaci髇 Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,4/7/2020, 14.306579 ,-91.046996 ,Otro
 3/11/2019,Mecanizado,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,3/11/2019, 14.243556 ,-91.195857 ,Volcadura
-4/7/2021,Vacio,Masagua,14.199972,-90.849572,Ruta 1,Zona 1,4/7/2021, 14.182070 ,-90.864724 ,Colision
+4/7/2021,Vac韔,Masagua,14.199972,-90.849572,Ruta 1,Zona 1,4/7/2021, 14.182070 ,-90.864724 ,Colision
 12/10/2020,Granel,Ceiba Cuache,14.297632,-90.949622,Ruta 2,Zona 2,12/9/2020, 14.297632 ,-90.949622 ,Volcadura
 2/12/2019,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,2/12/2019, 14.250573 ,-91.225322 ,Volcadura
 5/16/2021,Mecanizado,Entrada A Finca Peten,14.301043,-91.380846,Ruta 3,Zona 3,5/15/2021, 14.293419 ,-91.370854 ,Colision
-11/28/2020,Granel,Circunvalaci贸n Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,11/28/2020, 14.357037 ,-91.012190 ,Volcadura
-3/18/2019,Mecanizado,Entrada ca帽eros Ingenio Concepci贸n,14.326738,-90.796445,Ruta 1,Zona 1,3/18/2019, 14.328315 ,-91.021214 ,Colision
-2/1/2019,Vacio,Linea A3 La Maquina,14.367562,-91.554042,Ruta 3,Zona 3,2/1/2019, 14.280481 ,-91.642205 ,Colision
+11/28/2020,Granel,Circunvalaci髇 Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,11/28/2020, 14.357037 ,-91.012190 ,Volcadura
+3/18/2019,Mecanizado,Entrada ca馿ros Ingenio Concepci髇,14.326738,-90.796445,Ruta 1,Zona 1,3/18/2019, 14.328315 ,-91.021214 ,Colision
+2/1/2019,Vac韔,Linea A3 La Maquina,14.367562,-91.554042,Ruta 3,Zona 3,2/1/2019, 14.280481 ,-91.642205 ,Colision
 12/5/2018,Granel,Comedor Cristina Cuatro Caminos,14.571162,-91.658877,Ruta 3,Zona 3,12/5/2018, 14.565158 ,-91.686378 ,Volcadura
 12/26/2018,Granel,Casco Tehuantepec,14.170800,-91.102600,Ruta Interna,Zona 2,12/26/2018, 14.135237 ,-90.986746 ,Otro
-3/13/2021,Vacio,Entrada Principal Ingenio Santa Ana,14.269513,-90.827478,Ruta 2,Zona 2,3/13/2021, 14.264755 ,-90.838405 ,Volcadura
-2/4/2020,Granel,Entrada Finca Concepci贸n,14.541908,-91.578948,Ruta 3,Zona 3,2/4/2020, 14.542619 ,-91.587295 ,Colision
-2/6/2021,Vacio,Cuesta De Palafox,14.462669,-91.392510,Ruta 3,Zona 3,2/6/2021, 14.480551 ,-91.396123 ,Colision
-4/24/2019,Mecanizado,Circunvalaci贸n Reu Restaurante Flor Azul,14.533939,-91.673980,Ruta 3,Zona 3,4/24/2019, 14.531880 ,-91.678051 ,Otro
+3/13/2021,Vac韔,Entrada Principal Ingenio Santa Ana,14.269513,-90.827478,Ruta 2,Zona 2,3/13/2021, 14.264755 ,-90.838405 ,Volcadura
+2/4/2020,Granel,Entrada Finca Concepci髇,14.541908,-91.578948,Ruta 3,Zona 3,2/4/2020, 14.542619 ,-91.587295 ,Colision
+2/6/2021,Vac韔,Cuesta De Palafox,14.462669,-91.392510,Ruta 3,Zona 3,2/6/2021, 14.480551 ,-91.396123 ,Colision
+4/24/2019,Mecanizado,Circunvalaci髇 Reu Restaurante Flor Azul,14.533939,-91.673980,Ruta 3,Zona 3,4/24/2019, 14.531880 ,-91.678051 ,Otro
 11/25/2018,Granel,Entrada A Caballo Blanco,14.420199,-91.818688,Ruta 3,Zona 3,11/25/2018, 14.417923 ,-91.821517 ,Colision
-1/19/2020,Granel,Circunvalaci贸n Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,1/19/2020, 14.212389 ,-91.227575 ,Volcadura
+1/19/2020,Granel,Circunvalaci髇 Cruce A La Union,14.306072,-91.046673,Ruta 2,Zona 2,1/19/2020, 14.212389 ,-91.227575 ,Volcadura
 12/17/2020,Granel,Comedor Cristina Cuatro Caminos,14.571162,-91.658877,Ruta 3,Zona 3,12/17/2020, 14.569465 ,-91.666775 ,Colision
 4/24/2021,Granel,Puente Pepsi,14.282561,-90.787314,Ruta 1,Zona 1,4/24/2021, 14.283074 ,-90.788331 ,Volcadura
 12/19/2018,Granel,Gasolinera Maranatha,14.542854,-91.427352,Ruta 3,Zona 3,12/19/2018, 14.540357 ,-91.426018 ,Volcadura
-1/7/2021,Vacio,Chalet Tehuantepec,14.200614,-91.106112,Ruta Interna,Zona 2,1/7/2021, 14.220567 ,-91.101166 ,Otro
-1/11/2020,Vacio,La Horqueta,14.242764,-91.362895,Ruta 3,Zona 3,1/11/2020, 14.331267 ,-91.053292 ,Otro
+1/7/2021,Vac韔,Chalet Tehuantepec,14.200614,-91.106112,Ruta Interna,Zona 2,1/7/2021, 14.220567 ,-91.101166 ,Otro
+1/11/2020,Vac韔,La Horqueta,14.242764,-91.362895,Ruta 3,Zona 3,1/11/2020, 14.331267 ,-91.053292 ,Otro
 2/15/2019,Granel,La Platanera Fca. Jabali,14.232636,-91.162707,Ruta Interna,Zona 2,2/15/2019, 14.241238 ,-91.195474 ,Volcadura
 1/22/2021,Granel,Cuesta De Palafox,14.462669,-91.392510,Ruta 3,Zona 3,1/22/2021, 14.435115 ,-91.383891 ,Colision
